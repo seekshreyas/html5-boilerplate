@@ -5,6 +5,6 @@ My repository with customizations to the fabulous [H5BP](www.html5boilerplate.co
 My Changes
 -----------
 
-[x] Open Sans Font
-[x] Removal of Documentation files
+- [x] Open Sans Font
+- [x] Removal of Documentation files
 
